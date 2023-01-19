@@ -7,3 +7,4 @@ Collection of test Jupyter Notebooks for self-education. Focus areas:
 - Prallel processing with NumPy, SciPy, CuPy with focus in applications of HPC field
 - Distributed scaling in Dask
 - PINN - Physics Informed Neural Network
+- Python Extensions: CPython, Cython, PyPy for optimization
